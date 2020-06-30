@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    width: 66%;
+    border: 5px solid black;
+    margin: auto;
+    height: auto;
+    width: 500px;
+    background: antiquewhite;
+    color: black;
+}
+h1{
+    color:red; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+}
+input{
+    border: 1px solid black;
+    height: 25px;
+}
+li{
+    text-align: center;
+     
+}
+button {
+    float: middle;
+}
